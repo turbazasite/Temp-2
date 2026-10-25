@@ -1,1 +1,3 @@
-# Temp-2
+# mentor-cannabis-session
+
+Initial repository setup for pr-poehali-dev/mentor-cannabis-session
